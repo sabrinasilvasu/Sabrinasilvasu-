@@ -1,0 +1,5 @@
+cd /home/ubuntu/focusflow-landing-page
+
+git remote add origin https://github.com/Sabrinasilvasu/focusflow-landing-page.git
+git branch -M main
+git push -u origin main
